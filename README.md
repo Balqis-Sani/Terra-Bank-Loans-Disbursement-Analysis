@@ -1,4 +1,4 @@
-# Terra-Bank-Loans-Disbursement-Analysis
+# Terra Bank Loans Disbursement Analysis
 
 ### Project Overview
 ---
